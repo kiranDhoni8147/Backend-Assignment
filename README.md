@@ -6,10 +6,10 @@ This repository hosts the backend API for an authentication system enabling user
 Installation
 Clone the repository:
 
-git clone https://github.com/Avinashkr1229/NodeJs-Project.git
+git clone https://github.com/kiranDhoni8147/Backend-Assignment.git
 Navigate to the project directory:
 
-cd 
+cd Backend-Assignment
 Install dependencies:
 npm install
 
